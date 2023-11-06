@@ -33,6 +33,7 @@ La URL, en este caso, espara un repositorio en GitHub. Comprobamos que "origin" 
 ![image](/img/nuevoRepositorio.png)
 
 Por último, enviar (push) los cambios locales a la rama "main" del repositorio remoto "origin".
+Dar permisos introduciendo el passphrase, que es una contraseña pedida al generar la clave SSH.
 
 ![image](/img/enviarCambios.png)
 
