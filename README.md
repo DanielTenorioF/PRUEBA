@@ -17,9 +17,7 @@ Añadimos, empaquetamos y eviamos.
 
 ![image](/img/comandos1.png)
 
-
 ![image](/img/comandos2.png)
-
 
 ![image](/img/comandos3.png)
 
