@@ -4,10 +4,12 @@ Crear un repositorio en GitHub (Púlico y sin README.md).
 
 ![image](/img/creacionRepositorio.png)
 
+
 ## Paso 2
 Crear un direcotorio y README.md mediante terminal.
 
 ![image](/img/creacionDirectorio.png)
+
 
 ## Paso 3
 Pegar en el terminal los siguintes comandos aportados por GitHub (Dentro del respositorio creado).
@@ -20,6 +22,7 @@ Añadimos, empaquetamos y eviamos.
 
 
 ![image](/img/comandos3.png)
+
 
 ## Paso 4
 Eliminamos el repositorio original y comprobamos que no se muestre ningún repositorio remoto.
