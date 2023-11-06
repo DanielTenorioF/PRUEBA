@@ -1,6 +1,6 @@
 # IAW~practica0
 ## Paso 1
-Crear un repositorio en GitHub (Púlico y sin README.md)
+Crear un repositorio en GitHub (Púlico y sin README.md).
 
 ![image](/img/creacionRepositorio.png)
 
@@ -15,7 +15,9 @@ Añadimos, empaquetamos y eviamos.
 
 ![image](/img/comandos1.png)
 
+
 ![image](/img/comandos2.png)
+
 
 ![image](/img/comandos3.png)
 
